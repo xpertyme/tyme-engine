@@ -13,6 +13,7 @@ https://....
 
 **Describe the bug**
 A clear and concise description of what the bug is.
+Bitte geben Sie so viele Informationen wie möglich an. Je detaillierter die Beschreibung desto schneller kann ein Problem gelöst werden. Es werden nur vollständig ausgefüllte Bug-Reports bearbeitet.
 
 ** Which component is affected? **
 Calendar, Video call screen (old/new), Booking widget (old/new), Video Call center, Questionaire,....
